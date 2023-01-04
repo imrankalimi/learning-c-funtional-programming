@@ -1,0 +1,3 @@
+D:/Learning/Learning C/learning-c-funtional-programming/cmake-build-debug/CMakeFiles/learning_c_funtional_programming.dir
+D:/Learning/Learning C/learning-c-funtional-programming/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Learning/Learning C/learning-c-funtional-programming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
