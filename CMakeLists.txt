@@ -3,5 +3,5 @@ project(learning_c_funtional_programming C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(learning_c_funtional_programming
-        main.c)
+add_executable(
+        main.c  learnDecitionMaking.c)
